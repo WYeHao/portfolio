@@ -1,11 +1,9 @@
 # portfolio
 
-# RFID Shopping Cart System
+# RFID-based Smart Shopping System
 
-## System Architecture
 
 ### Workflow
-
 | Step | Device | File Type | Action |
 |------|--------|-----------|--------|
 | 1️⃣  | ESP32  | C++ (Main) | RFID scan card, get UID |
