@@ -13,3 +13,4 @@
 | 5️⃣  | ESP32  | C++ (Main) | Receive response, display on OLED |
 | 6️⃣  | Web    | PHP        | Display shopping cart list |
 | 7️⃣  | Web    | PHP        | User click +/- / delete button to modify database |
+| 8️⃣  | Web    | PHP        | User checkout, clear cart, update payment status |
