@@ -8,11 +8,11 @@
 #include <WebServer.h>
 
 // WiFi 
-const char* ssid     = "Newera2G";
-const char* password = "newera123456";  
-const char* serverName = "http://192.168.0.216/july25iot/post-data.php";
+const char* ssid     = "WiFi Name";
+const char* password = "Wifi Password";  
+const char* serverName = "http://192.168.x.xxx/july25iot/post-data.php";
 
-String apiKeyValue = "tPmAT5Ab3j7F9";
+String apiKeyValue = "YOUR_API_KEY";
 
 // OLED
 #define SCREEN_WIDTH 128
